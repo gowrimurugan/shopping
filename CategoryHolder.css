@@ -1,0 +1,6 @@
+.category-holder-wrapper{
+    display: grid;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    grid-template-columns: auto auto auto auto;
+}

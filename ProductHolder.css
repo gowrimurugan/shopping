@@ -1,0 +1,6 @@
+.productHolderWrapper{
+    display: grid;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    grid-template-columns: auto auto auto auto;
+}

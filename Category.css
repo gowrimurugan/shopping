@@ -1,0 +1,17 @@
+
+img{
+    width: 150px;
+    height: 150px;
+    margin: 30px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 10px black; */
+}
+.detail-area{
+    margin-left: 30px;
+    margin-top: 0px;
+}
+.category:hover{
+    box-shadow: 0px 0px 10px 10px rgb(125, 125, 125);
+    border-radius: 10px;
+}

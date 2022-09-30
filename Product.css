@@ -1,0 +1,30 @@
+.product{
+    justify-content: space-around;
+}
+img{
+    width: 150px;
+    height: 150px;
+    /* margin: 30px; */
+    margin-bottom: 0px;
+    border-radius: 10px;
+    /* margin-left: 70px; */
+}
+.image-area{
+    position: relative;
+    margin-left: 70px;
+}
+.text-area{
+    margin-left: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
+.product:hover{
+    box-shadow: 0px 0px 10px 10px rgb(125, 125, 125);
+    border-radius: 10px;
+}
+.text-offer{
+    position: absolute;
+    margin-left: 0;
+    /* bottom: 10px; */
+    color: red;
+}
